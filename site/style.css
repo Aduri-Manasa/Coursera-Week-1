@@ -1,0 +1,11 @@
+.row {
+	width: 100%;
+}
+
+@media (min-width:1200px) {
+	.col-lg-4 {
+		float: left;
+		width: 33.33%;
+		border-style: 5px solid black;
+	}
+}
